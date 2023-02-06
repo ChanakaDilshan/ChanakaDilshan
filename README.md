@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanakadilshan" alt="chanakadilshan" /></a> </p>
+<p align="left"> <a href="https://github.com/chanakadilshan"><img src="https://github-profile-trophy.vercel.app/?username=chanakadilshan" alt="chanakadilshan" /></a> </p>
 
 - 🌱 I’m currently learning **MEAN, MEARN, Flutter**
 
